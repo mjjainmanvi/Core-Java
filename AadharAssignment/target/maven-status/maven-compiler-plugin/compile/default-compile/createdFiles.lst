@@ -1,0 +1,6 @@
+com\hughes\services\AadharServiceImpl.class
+com\hughes\services\AadharService.class
+com\hughes\model\Aadhar.class
+com\hughes\AadharAssignmentApplication.class
+com\hughes\repository\AadharRepository.class
+com\hughes\repository\AadharRepositoryImpl.class
